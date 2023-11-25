@@ -1,0 +1,14 @@
+.dark{
+    background-color: #282c34;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  .white{
+    background-color: white;
+    height: 100vh;
+    width: 100%;
+  }
+  .bttn{
+    align-items: center;
+  }
